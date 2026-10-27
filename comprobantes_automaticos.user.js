@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         P2P Banesco+Binance – Captura y Marcar Pagado 5.1
 // @namespace    p2p-banesco-binance
-// @version      5.1
+// @version      5.1.1
+// @updateURL    https://raw.githubusercontent.com/alislacruzh-spec/Comprobantes-automaticos/main/comprobantes_automaticos.user.js
+// @downloadURL  https://raw.githubusercontent.com/alislacruzh-spec/Comprobantes-automaticos/main/comprobantes_automaticos.user.js
 // @match        https://www.banesconline.com/*
 // @match        https://c2c-admin.binance.com/es/order/pending*
 // @match        https://p2p.binance.com/*
